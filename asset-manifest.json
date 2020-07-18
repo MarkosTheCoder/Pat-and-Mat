@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Pat-and-Mat/static/css/main.02b46c89.chunk.css",
+    "main.js": "/Pat-and-Mat/static/js/main.d8670134.chunk.js",
+    "main.js.map": "/Pat-and-Mat/static/js/main.d8670134.chunk.js.map",
+    "runtime-main.js": "/Pat-and-Mat/static/js/runtime-main.787ef65c.js",
+    "runtime-main.js.map": "/Pat-and-Mat/static/js/runtime-main.787ef65c.js.map",
+    "static/css/2.7c048cb8.chunk.css": "/Pat-and-Mat/static/css/2.7c048cb8.chunk.css",
+    "static/js/2.333c925e.chunk.js": "/Pat-and-Mat/static/js/2.333c925e.chunk.js",
+    "static/js/2.333c925e.chunk.js.map": "/Pat-and-Mat/static/js/2.333c925e.chunk.js.map",
+    "index.html": "/Pat-and-Mat/index.html",
+    "precache-manifest.9e7f5d470b28abf4c63a281b5cc4e58c.js": "/Pat-and-Mat/precache-manifest.9e7f5d470b28abf4c63a281b5cc4e58c.js",
+    "service-worker.js": "/Pat-and-Mat/service-worker.js",
+    "static/css/2.7c048cb8.chunk.css.map": "/Pat-and-Mat/static/css/2.7c048cb8.chunk.css.map",
+    "static/css/main.02b46c89.chunk.css.map": "/Pat-and-Mat/static/css/main.02b46c89.chunk.css.map",
+    "static/js/2.333c925e.chunk.js.LICENSE.txt": "/Pat-and-Mat/static/js/2.333c925e.chunk.js.LICENSE.txt",
+    "static/media/bbanner.png": "/Pat-and-Mat/static/media/bbanner.60265e4a.png",
+    "static/media/copia.png": "/Pat-and-Mat/static/media/copia.1220e4ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.787ef65c.js",
+    "static/css/2.7c048cb8.chunk.css",
+    "static/js/2.333c925e.chunk.js",
+    "static/css/main.02b46c89.chunk.css",
+    "static/js/main.d8670134.chunk.js"
+  ]
+}
