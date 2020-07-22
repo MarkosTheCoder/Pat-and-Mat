@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
   	<div>
   		<head>
-  		<tittle>Pat and Mat Home Repair</tittle>
+  		<tittle>Pat and Mat</tittle>
   		<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet"/>
   		</head>
     	<Logo />
