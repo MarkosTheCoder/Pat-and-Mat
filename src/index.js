@@ -22,7 +22,6 @@ ReactDOM.render(
 			You can count on our services for:</h3>
 			<div class='services'>
 				<li>New Paint/Repaint</li>
-				<li>Maintenance</li>
 				<li>Installation</li>
 				<li>Repairs</li>
 				<li>Flooring</li>
