@@ -5,6 +5,10 @@ import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import './index.css';
 import Slideshow from './slides.js';
+import Cards from './card.js';
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import cardcontent from './cardcontent.js'
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -21,14 +25,14 @@ ReactDOM.render(
 			<h3>We are a team of professionals available to your needs,
 			You can count on our services for:</h3>
 			<div class='services'>
-				<li>New Paint/Repaint</li>
-				<li>Installation</li>
-				<li>Repairs</li>
-				<li>Flooring</li>
-				<li>Drywall</li>
-				<li>Carpentery</li>
-				<li>Pressure Cleaner</li>
-				<li>And more...!</li>
+				<ul>
+					<li>
+						<Cards image={cardcontent[0].image} tittle={cardcontent[0].tittle} description={cardcontent[0].description} />
+					</li>
+					<li>
+						<Cards image={cardcontent[1].image} tittle={cardcontent[1].tittle} description={cardcontent[1].description} />
+					</li>
+				</ul>
 			</div>
 		</div>
 		<h1>Check out our latest work</h1>

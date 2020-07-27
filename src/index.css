@@ -24,3 +24,15 @@ h1, h2{
 .services{
 	 list-style-type:none;
 }
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+li {
+	list-style-type:none;
+	padding-right: 2em;
+	padding-top: 2em
+}
